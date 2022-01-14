@@ -27,6 +27,7 @@ I am a passionate individual and a technophiles obsessed with the latest technol
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt=“bootstrap” width="40" height="40"/> </a>
 <a href="https://jira.atlassian.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt=“bootstrap” width="40" height="40"/> </a>
 <a href="https://jquery.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt=“bootstrap” width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt=“bootstrap” width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt=“bootstrap” width="40" height="40"/> </a>
 <a href="https://woocommerce.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" alt=“bootstrap” width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt=“bootstrap” width="40" height="40"/> </a>
