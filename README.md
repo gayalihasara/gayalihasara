@@ -10,10 +10,10 @@
   <img align="left" src="https://komarev.com/ghpvc/?username=gayalihasara" alt="page views" />
 </a>
 <a href="https://github.com/gayalihasara?tab=followers">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/osandadeshan?color=green&logo=github">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/gayalihasara?color=green&logo=github">
 </a>
 <a href="https://github.com/gayalihasara?tab=stars">
-  <img alt="GitHub followers" src="https://img.shields.io/github/stars/osandadeshan?color=yellow&logo=github">
+  <img alt="GitHub followers" src="https://img.shields.io/github/stars/gayalihasara?color=yellow&logo=github">
 </a>
 <br />
 
