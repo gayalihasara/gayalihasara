@@ -1,6 +1,16 @@
-### Hi I am Gayali Wickramasooriya 👋
+### Hi I am Gayali Wickramasooriya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="#">
+  <img align="left" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
+<a href="https://www.linkedin.com/in/gayali-hasara-b053a4185/">
+  <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<br />
 
 I am working as a Back-end Developer with experience in .NET Core, MVC, EF Core, REST API, C# Programming Language/CSS3/HTML, Angular, Bootstrap. Experience of working with various third-party libraries, frameworks and APIs. Familiar with Agile methodologies. Interested in engaging with new technologies.
+
+- 💬 Ask me about anything, I am happy to help.
 
 💡 Languages and Tools
 
@@ -36,13 +46,21 @@ I am working as a Back-end Developer with experience in .NET Core, MVC, EF Core,
 <a href="https://travis-ci.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain-wordmark.svg" alt=“travis” width="40" height="40"/> </a>
 </p>
 
+## 🚧 Core Skills:
 
-- 🔭 I’m currently working on ... .NET Core
-- 🌱 I’m currently learning ... React.js
-- 👯 I’m looking to collaborate on ... .NET
-- 🤔 I’m looking for help with ... AWS
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... gayalihasara98@gmail.com
-- 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... Cool
--->
+<!-- TODO-IST:START -->
+
+* Industry aware and technically up to speed with current software development tools.
+* Strong analytical skills and level headed problem solver.
+* Strong Java in an object orientated environment.
+* Solid experience in test automation framework development
+* Experienced in behaviour driven test automation using Gauge Framework (Web, API and Mobile automation).
+* Performance testing using JMeter.
+* Continuos integration and deployment using Jenkins.
+* API development using ExpressJs.
+* Visual test automation using Applitools.
+* Windows GUI based automation using AutoIt.
+* Security testing.
+* Version controlling using Git.
+* Reporting and documentation using JIRA and Confluence.
+* Knowledge in Apache, MySQL and Mongo databases and Linux.
