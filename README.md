@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/gayali-hasara-b053a4185/">
   <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
+<a href="https://github.com/osandadeshan/">
+  <img align="left" src="https://komarev.com/ghpvc/?username=osandadeshan" alt="page views" />
+</a>
 <br />
 
 ## 👨‍💻 About Me:
