@@ -45,7 +45,7 @@ I am a passionate individual and a technophiles obsessed with the latest technol
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt=“sass” width="40" height="40"/> </a>
-<a href="https://appium.io/" target="_blank"> <img src="https://img.favpng.com/0/13/16/appium-test-automation-software-testing-selenium-png-favpng-HkMGVYPRDwpj4rRZhHCx7g4n7.jpg" alt="appium" width="40" height="40"/> </a>
+<a href="https://appium.io/" target="_blank"> <img height="40" src="https://user-images.githubusercontent.com/9147189/132085451-dfda532a-fd54-430b-8eb3-48c5b96fbe64.png"> </a>
 <a href="https://www.selenium.dev/" target="_blank"> <img src="https://camo.githubusercontent.com/74ed64243ba05754329bc527cd4240ebd1c087a1/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" alt="selenium" width="40" height="40"/> </a>
 <a href="https://trello.com/en" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1361722806694785027/UY7DlO0a_400x400.png" alt=“trello” width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt=“git” width="40" height="40"/> </a>
