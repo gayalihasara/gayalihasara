@@ -49,5 +49,7 @@ I am a passionate individual and a technophiles obsessed with the latest technol
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1351700750993223681/NNJK6vzE_400x400.jpg" alt="amazon" width="40" height="40"/> </a>
 <a href="https://jira.atlassian.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt=“jira” width="40" height="40"/> </a>
+<a href="https://trello.com/en" target="_blank"> <img src="https://sm.pcmag.com/pcmag_au/review/t/trello/trello_rvna.jpg" alt=“jira” width="40" height="40"/> </a>
+</p>
 </p>
 
