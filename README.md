@@ -25,7 +25,7 @@ I am a passionate individual and a technophiles obsessed with the latest technol
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b761156da74e347df5408c1000c2951d9b6a7daa0c49a&rid=giphy.gif&ct=g" width="500" height="320" />
 
-- 💬 Ask me about anything, I am happy to help.
+💬 Ask me about anything, I am happy to help.
 
 💡 Languages and Tools
 
