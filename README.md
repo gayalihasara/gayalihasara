@@ -38,6 +38,7 @@ I am a passionate individual and a technophiles obsessed with the latest technol
 <a href="https://www.java.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt=“java” width="40" height="40"/> </a>
 <a href="https://jquery.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt=“jquery” width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt=“javascript” width="40" height="40"/> </a>
+<a href="https://www.npmjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg" alt=“npm” width="40" height="40"/> </a>
 <a href="https://wordpress.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt=“wordpress” width="40" height="40"/> </a>
 <a href="https://woocommerce.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" alt=“woocommerce” width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
