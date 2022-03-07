@@ -57,4 +57,7 @@ I am a passionate individual and a technophiles obsessed with the latest technol
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg" alt=vuejs width="40"  height="40"/> </a>
 <a href="https://www.sourcetreeapp.com/" target="_blank"> <img src="https://morrislaptop.gallerycdn.vsassets.io/extensions/morrislaptop/vscode-open-in-sourcetree/0.6.0/1527010183206/Microsoft.VisualStudio.Services.Icons.Default" alt=sourcetree width="40"  height="40"/> </a>
 <a href="https://desktop.github.com/" target="_blank"> <img src="https://static.techspot.com/images2/downloads/topdownload/2021/04/2021-04-07-ts3_thumbs-8ba.png" alt=githubdesktop width="40"  height="40"/> </a>
+<a href="https://slack.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/slack/slack-original.svg" alt=slack width="40"  height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://yt3.ggpht.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj" alt=slack width="40"  height="40"/> </a>
+<a href="https://www.sublimetext.com/" target="_blank"> <img src="https://www.sublimehq.com/images/sublime_text.png" alt=slack width="40"  height="40"/> </a>
 </p>
